@@ -64,3 +64,5 @@ ESP-IDF GATT SERVER SPP Example is based.
 *Note: change ttyUSBx, x=serial port of the ttl module.*
 
 # Summary
+
+It works, detailed info see [Connecting SpeedyBee or BetaFlightConfigurator with self make SPP device](https://blog.csdn.net/lida2003/article/details/127901773)
